@@ -5,5 +5,5 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=mrsergazinov alt=mrsergazinov /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mrsergazinov&show_icons=true&include_all_commits=true)](https://github.com/mrsergazinov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsergazinov&layout=compact)](https://github.com/mrsergazinov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsergazinov&layout=compact&hide=jupyter%20notebook)](https://github.com/mrsergazinov/github-readme-stats)
 
